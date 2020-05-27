@@ -4,5 +4,6 @@
 * install node
 * npm install -y
 * npm start
+* go to http://localhost:3000/
 
-link: https://hexam.eu-gb.mybluemix.net/<br>
+webapp is hosted at: https://hexam.eu-gb.mybluemix.net/<br>
